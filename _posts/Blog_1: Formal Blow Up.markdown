@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Blowing up the disk: A hike through formal geometry"
+title:  "Blowing"
 date:   2020-08-24 19:16:04 +0200
 categories: jekyll update
 ---
-
-
+<h1>Blowing up the disk: A hike through formal geometry</h1>
+ 
 In this post I will explore $$ \mathbb{D}^1$$, the $p$-adic unit disk, whatever that means...
 
 $$ 
