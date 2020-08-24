@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: post
+layout: home
 ---
 <style>
 
@@ -13,7 +13,7 @@ layout: post
 
     #content {
         display: flex;
-        height: 50vh;
+        height: 20vh;
         margin: 0 auto;
         align-items: center;
         justify-content: center;

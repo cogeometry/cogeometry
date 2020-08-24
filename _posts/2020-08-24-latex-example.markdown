@@ -5,16 +5,11 @@ date:   2020-08-24 10:40:04 +0200
 categories: jekyll update
 ---
 
-Inline: {% katex %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
 
-block:
-{% katex display %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
+This is a mixed environment where you can have normal text with a dollar sign $ and inline latex $$ \lVert x \rVert $$! and block latex 
 
-math mode:
-{% katexmm %}
-This is a mixed environment where you can have normal text and inline latex $\lVert x \rVert $, \$1! and block latex $$\sqrt{x+y}$$ 
-{% endkatexmm %}
+$$ 
+    \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
+$$
+
+Always use `$$` for latex, weither it is a block or not depends on if it appears as a paragraph in the source code.
