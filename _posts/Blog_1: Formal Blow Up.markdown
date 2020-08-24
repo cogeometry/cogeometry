@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blowing up the disk: A hike through formal geometry"
-date:   2020-08-24 10:40:04 +0200
+date:   2020-08-24 19:16:04 +0200
 categories: jekyll update
 ---
 
