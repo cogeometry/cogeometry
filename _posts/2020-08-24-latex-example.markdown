@@ -14,9 +14,3 @@ $$
 
 Always use `$$` for latex, weither it is a block or not depends on if it appears as a paragraph in the source code.
 
-
-
-
-This is a test.
-
-This is not a test
