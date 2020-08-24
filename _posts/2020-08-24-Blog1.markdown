@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Blowing"
+title:  "Blowing up the disk: A hike through formal geometry"
 date:   2020-08-24 19:16:04 +0200
 categories: jekyll update
 ---
-<h1>Blowing up the disk: A hike through formal geometry</h1>
+<h1>Between formal schemes and adic spaces</h1>
  
-In this post I will explore $$ \mathbb{D}^1$$, the $p$-adic unit disk, whatever that means...
+In this post I will explore $$ \mathbb{D}^1$$, the $$p$$-adic unit disk, whatever that means...
 
 $$ 
     \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
