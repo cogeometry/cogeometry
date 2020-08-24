@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Blowing up the disk: A hike through formal geometry"
+date:   2020-08-24 10:40:04 +0200
+categories: jekyll update
+---
+
+
+In this post I will explore $$ \mathbb{D}^1$$, the $p$-adic unit disk, whatever that means...
+
+$$ 
+    \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
+$$
+
+Always use `$$` for latex, weither it is a block or not depends on if it appears as a paragraph in the source code.
+
+
+
+
+This is a test.
+
+This is not a test

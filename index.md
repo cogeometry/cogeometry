@@ -25,5 +25,5 @@ layout: home
 </style>
 
 <div id="content">
-    <pre>Spec : {CRing}^op -> {Affine schemes} is an equivalence.</pre>
+    <pre>Spec : {CRing}^op -> {Affine schemes} is an equivalence</pre>
 </div>
