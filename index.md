@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
 <style>
 
     html, body {
@@ -7,10 +13,10 @@
 
     #content {
         display: flex;
-        width: 400px;
-        height: 100vh;
+        height: 50vh;
         margin: 0 auto;
         align-items: center;
+        justify-content: center;
     }
 
     #content pre {
