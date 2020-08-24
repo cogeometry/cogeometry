@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LaTeX examples"
+title:  "LaTeXx examples"
 date:   2020-08-24 10:40:04 +0200
 categories: jekyll update
 ---
