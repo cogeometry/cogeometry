@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: post
 ---
 <style>
 
@@ -21,10 +21,6 @@ layout: page
 
     #content pre {
         text-align: center;
-    }
-
-    #content img {
-        width: 400px;
     }
 </style>
 
