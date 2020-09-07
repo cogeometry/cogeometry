@@ -28,7 +28,7 @@ $$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q)$$.
 2. The second example uses the exponential function. To be more precise we have the exponential short exact sequence
 
 $$ 
-    0\to \underline{\mathbb{Z}}\xrightarrow{\cdot 2\pi i} \mathcal{O}\xrightarrow{exp( _ )} \mathcal{O}^*\to 0
+    0\to \underline{\mathbb{Z}}\xrightarrow{\cdot 2\pi i} \mathcal{O}\xrightarrow{exp( \_ )} \mathcal{O}^*\to 0
 $$
 
 Always use `$$` for latex, weither it is a block or not depends on if it appears as a paragraph in the source code.
