@@ -6,11 +6,17 @@ categories: jekyll update
 ---
 <h1>A Motivation</h1>
 
-To see what formal geometry attempts to do, we might want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid, when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathhb{P}^n_{\mathbb{C}}$$, where $$\mathhb{P}^n_{\mathbb{C}}$$ is the smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
+To see what formal geometry attempts to do, we might want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid, when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathbb{P}^n_{\mathbb{C}}$$, where $$\mathbb{P}^n_{\mathbb{C}}$$ is the smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
 
-By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $\mathbb{C}$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\C)$$ also naturally has the complex topology, which is finer. Here are two instances, where working over $$\mathbb{C}$$ is beneficial: 
+By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $\mathbb{C}$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. So heuristically we might hope that there is more information to be retrieved. Here are two instances, where working over $$\mathbb{C}$$ is beneficial: 
 
-1. Example
+1. Hodge theory! Let $$H^n(X(\mathbb{C}),\mathbb{C})$$ be either the singular cohomology, or the de Rham cohomology, the former crucially using the complex topology, while the latter has an algebraic analogue, the *algebraic* de Rham cohomology. In any case, the concise way to state the Hodge theorem is as follows
+
+**Theorem** Let $$X$$ be as above. Then we have a natural decomposition
+
+$$$H^n(X(\mathbb{C}),\mathbb{C})$$\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
+and  furthermore
+$$  H^{p,q}(X(\mathbb{C}))\cong \bar{ H^{q,p}(X(\mathbb{C}))}.$$
 
 
 2. 
