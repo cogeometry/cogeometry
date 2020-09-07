@@ -1,13 +1,21 @@
 ---
 layout: post
-title:  "Blowing up the disk: A hike through formal geometry- I"
+title:  "A hike through formal geometry- I"
 date:   2020-08-24 19:16:04 +0200
 categories: jekyll update
 ---
-<h1>Between formal schemes and adic spaces</h1>
+<h1>A Motivation</h1>
 
-**Theorem** Let $X$ be a K\'ahler manifold.
-  
+To see what formal geometry attempts to do, we might want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid, when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathhb{P}^n_{\mathbb{C}}$$, where $$\mathhb{P}^n_{\mathbb{C}}$$ is the smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
+
+By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $\mathbb{C}$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\C)$$ also naturally has the complex topology, which is finer. Here are two instances, where working over $$\mathbb{C}$$ is beneficial: 
+
+1. Example
+
+
+2. 
+**Theorem** Let $$X$$ be a K\'ahler manifold.
+
 $$ 
     \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
 $$
