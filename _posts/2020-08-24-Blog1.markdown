@@ -12,12 +12,13 @@ By Serre's GAGA, every complex projective variety arises from a projective schem
 
 1. Hodge theory! Let $$H^n(X(\mathbb{C}),\mathbb{C})$$ be either the singular cohomology, or the de Rham cohomology, the former crucially using the complex topology, while the latter has an algebraic analogue, the *algebraic* de Rham cohomology. In any case, the concise way to state the Hodge theorem is as follows
 
-**Theorem** Let $$X$$ be as above. Then we have a natural decomposition (as \mathbb{C} vector spaces)
+**Theorem** Let $$X$$ be as above. Then we have a natural decomposition (as $$\mathbb{C}$$ vector spaces)
 
-$$H^n(X(\mathbb{C}),\mathbb{C})$$\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
+$$H^n(X(\mathbb{C}),\mathbb{C})\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
 and  furthermore
 
 $$  H^{p,q}(X(\mathbb{C}))\cong \bar{ H^{q,p}(X(\mathbb{C}))}.$$
+
 
 The groups H^{p,q}(X(\mathbb{C})) can be defined as Dolbeaut cohomology groups, but you can also think of them as 
 $$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q) $$. Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $\mathbb{C}$ case. The way to prove the above theorem, as in the book by Voision [ref], uses harmonic analysis. 
