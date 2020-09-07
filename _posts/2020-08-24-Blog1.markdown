@@ -23,7 +23,7 @@ $$  H^{p,q}(X(\mathbb{C}))\cong \overline{ H^{q,p}(X(\mathbb{C}))}.$$
 
 The groups $$H^{p,q}(X(\mathbb{C}))$$ can be defined as Dolbeaut cohomology groups, but one can also think of them as 
 $$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q)$$. 
-\newline Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $$\mathbb{C}$$ case. One way to prove the above theorem that I am aware of is preseneted in the book by Voision [ref] and uses harmonic analysis. 
+ Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $$\mathbb{C}$$ case. One way to prove the above theorem that I am aware of is preseneted in the book by Voision [ref] and uses harmonic analysis. 
 
 2. The second example uses the exponential function. To be more precise we have the exponential short exact sequence
 
