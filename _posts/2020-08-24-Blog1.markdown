@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Blowing up the disk: A hike through formal geometry"
+title:  "Blowing up the disk: A hike through formal geometry- I"
 date:   2020-08-24 19:16:04 +0200
 categories: jekyll update
 ---
 <h1>Between formal schemes and adic spaces</h1>
- 
-In this post I will explore $$ \mathbb{D}^1$$, the $$p$$-adic unit disk, whatever that means...
 
+**Theorem** Let $X$ be a K\'ahler manifold.
+  
 $$ 
     \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
 $$
