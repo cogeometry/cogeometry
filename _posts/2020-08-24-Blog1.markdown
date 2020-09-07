@@ -18,17 +18,17 @@ $$H^n(X(\mathbb{C}),\mathbb{C})\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
 
 and  furthermore
 
-$$  H^{p,q}(X(\mathbb{C}))\cong \bar{ H^{q,p}(X(\mathbb{C}))}.$$
+$$  H^{p,q}(X(\mathbb{C}))\cong \overline{ H^{q,p}(X(\mathbb{C}))}.$$
 
 
-The groups $$H^{p,q}(X(\mathbb{C}))$$ can be defined as Dolbeaut cohomology groups, but you can also think of them as 
-$$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q)$$. Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $$\mathbb{C}$$ case. The way to prove the above theorem, as in the book by Voision [ref], uses harmonic analysis. 
+The groups $$H^{p,q}(X(\mathbb{C}))$$ can be defined as Dolbeaut cohomology groups, but one can also think of them as 
+$$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q)$$. 
+\newline Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $$\mathbb{C}$$ case. One way to prove the above theorem that I am aware of is preseneted in the book by Voision [ref] and uses harmonic analysis. 
 
-2. 
-**Theorem** Let $$X$$ be a K\'ahler manifold.
+2. The second example uses the exponential function. To be more precise we have the exponential short exact sequence
 
 $$ 
-    \lVert (x, y) \rVert := \sqrt { x^2 + y^2 }
+    0\to \underline{\mathbb{Z}}\righthookarrow{"2\pi i"} \mathcal{O}\to \mathcal{O}^*\to
 $$
 
 Always use `$$` for latex, weither it is a block or not depends on if it appears as a paragraph in the source code.
