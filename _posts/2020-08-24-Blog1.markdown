@@ -23,7 +23,7 @@ By Serre's GAGA, every complex projective variety arises from a projective schem
 
     **Theorem** Let $$X$$ be as above and smooth. Then we have a natural decomposition (as $$\mathbb{C}$$ vector spaces)
 
-    $H^n(X(\mathbb{C}),\mathbb{C})\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
+    $$H^n(X(\mathbb{C}),\mathbb{C})\cong\bigoplus_{p+q=n} H^{p,q}(X(\mathbb{C})) $$
 
     and  furthermore
 
@@ -46,7 +46,7 @@ By Serre's GAGA, every complex projective variety arises from a projective schem
     
 The above examples can be also elaborated and there are more examples of course.
 
-But what happens if we don't consider $$ \C$$ or $$\R$$, which is nothing else but the completion of $$\Q$$ for the real topology. We might wonder what happens, if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). And put in simple terms- this is what formal geometry attempts to do. (More generally maybe also for any kind of topological ring). But things turn out to be not as easy as in the complex case. So far at least, there is no "one construction" that is fit best for all purposes. Each concept, that will be briefly introduced in the next section, resolves certain issues, but in return imposes more restrictions in a different way. 
+But what happens if we don't consider $$ \C$$ or $$\R$$, which is nothing else but the completion of $$\Q$$ for the real topology. We might wonder what happens, if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). And put in simple terms- this is what formal geometry attempts to do (more generally maybe also for any kind of topological ring). But things turn out to be not as easy as in the complex case. So far at least, there is no "one construction" that is fit best for all purposes. Each concept, that will be briefly introduced in the next section, resolves certain issues, but in return imposes restrictions in a different way. 
 
 One of the first things that clearly distinguishes the $$p$$-adic topology form the real topology are the closed and open unit disk 
 
@@ -56,7 +56,7 @@ this is now a local ring! So to liberate us from the real world, we have to come
 
 <h1>A map of formal geometry</h1>
 
-
+Since a map is always only an approximation of the territory that it encaptures, what I will write is only a sketch of the whole area and as such to be read with an appropriate amount of caution. 
 
 This is a test.
 testtet
