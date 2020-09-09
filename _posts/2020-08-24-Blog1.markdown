@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h1>A Motivation</h1>
 
-$$\newcommand{\a}{\alpha} \a{}/2 $$
+$$\newcommand{\a}{\alpha}$$
 
 To see what formal geometry attempts to do, we might want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid, when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathbb{P}^n_{\mathbb{C}}$$, where $$\mathbb{P}^n_{\mathbb{C}}$$ is the smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
 
