@@ -58,5 +58,9 @@ this is now a local ring! So to liberate us from the real world, we have to come
 
 Since a map is always only an approximation of the territory that it encaptures, what I will write is only a sketch of the whole area and as such to be read with an appropriate amount of caution. 
 
-This is a test.
-testtet
+Before introducing the different approaches, what are reasonable things to expect from them? 
+- Ideally we have a functor:
+
+$$ F:\textrm{test}\to \textrm{test2} $$
+
+test3
