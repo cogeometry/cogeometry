@@ -80,10 +80,10 @@ Before introducing the different approaches, what are reasonable things to expec
     or if we are feeling very bold, maybe more generally
 
     $$ \{x\in S(A)| |f(x)|\leq g(x) \}.$$
-    
+
 - On the other hand if $$I\subset A$$ is a "nice" ideal (e.g. open for the topology on $$A$$), then something like 
 
-    $$ V(I)=\{x\in S(A)| f(x)=0} $$
+    $$ V(I)=\{x\in S(A)| f(x)=0\} $$
 
     should be closed in $$S(A)$$, maybe something like $$S(A/I)\hookrightarrow$ S(A)$$. 
 
