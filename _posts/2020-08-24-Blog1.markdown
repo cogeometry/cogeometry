@@ -70,6 +70,7 @@ Before introducing the different approaches, what are reasonable things to expec
     So that the objects we construct live in a reasonable ambient category, e.g. it should be a topological space with a sheaf, to begin with. Also this functor should be fully faithfull. Note also that I am intentionally vague with the domain category of the functor, as it will vary from approach to approach.
 
 - Now let's say we have $$ S(A)$$, where $$A$$ is an object in our domain category. $$S(A)$$ will have a topology, sometimes also natural Grothendieck topologies. Let $$f,g\in A$$ be some elements. The following sets should be open:
+
     $$ \{x\in S(A)| f(x)\neq 0 \} $$
 
     analogous to the scheme case. It again remains vague what I mean here e.g. by $$f(x)$$, but the usual case of affine schemes should provide some intuition. Now furthermore we would of course like to include more open sets! The straight-forward approach would be something like
@@ -79,6 +80,7 @@ Before introducing the different approaches, what are reasonable things to expec
     or if we are feeling very bold, maybe more generally
 
     $$ \{x\in S(A)| |f(x)|\leq g(x) \}.$$
+    
 - On the other hand if $$I\subset A$$ is a "nice" ideal (e.g. open for the topology on $$A$$), then something like 
 
     $$ V(I)=\{x\in S(A)| f(x)=0} $$
