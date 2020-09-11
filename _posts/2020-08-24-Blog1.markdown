@@ -89,4 +89,4 @@ Before introducing the different approaches, what are reasonable things to expec
 
 - Having talked about topology, it seems reasonable to bring up the subject of gluing. Just like with schemes, in our category of $$\textrm{???-spaces}$$ we should be able to take some kind of "gluing" datum and get a new ???-space, which of course locally looks like $$S(A)$$. 
 
-- It would be nice to have things like fibre products and maybe other kinds of (co)limits. Especially, if our domain category has some kind of (co)limit, the functor $$S$$ should preserve it.
+- It would be nice to have things like fibre products and other kinds of (co)limits. Especially, if our domain category has some kind of (co)limit, the functor $$S$$ should preserve it.
