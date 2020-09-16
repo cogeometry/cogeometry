@@ -17,9 +17,11 @@ $$\newcommand{\R}{\mathbb{R}}$$
 
 To see what formal geometry attempts to do, we might first want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful -- because of its great generality -- there is a toll to be paid when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathbb{P}^n_{\mathbb{C}}$$, where $$\mathbb{P}^n_{\mathbb{C}}$$ is a smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
 
-By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $$\mathbb{C}$$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. Heuristically we might hope that there is something to be gained by keeping this structure which are lost in the algebraic geometry machinery. Here are two instances, where working over $$\mathbb{C}$$ is beneficial: 
+By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $$\mathbb{C}$$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. Heuristically we might hope that there is something to be gained by keeping this structure which are lost in the algebraic geometry machinery. Here are two instances, where working over $$\mathbb{C}$$ is beneficial.
 
-### Hodge theory! 
+
+### Example 1
+Hodge theory! 
 Let $$H^n(X(\mathbb{C}),\mathbb{C})$$ be either the singular cohomology, or the de Rham cohomology, the former crucially using the complex topology, while the latter has an algebraic analogue, the *algebraic* de Rham cohomology. In any case, the concise way to state the Hodge theorem is as follows
 
 **Theorem** _Let $$X$$ be as above and smooth. Then we have a natural decomposition (as $$\mathbb{C}$$ vector spaces)_
@@ -35,7 +37,7 @@ The groups $$H^{p,q}(X(\mathbb{C}))$$ can be defined as Dolbeaut cohomology grou
  $$H^{p,q}(X(\mathbb{C}))\cong H^p(X,\Omega^q)$$. 
  Now to be fair the first part of this theorem can be proved also in a more general set up, by showing that some spectral sequence degenerates. But then the decomposition will be not canonical and more importantly the second part of theorem, the Hodge symmetry, is unique to the $$\mathbb{C}$$ case. One way to prove the above theorem that I am aware of is preseneted in the book by Voision [ref] and uses harmonic analysis. 
 
-### Exponential function
+### Example 2
 The second example uses the exponential function. To be more precise we have the exponential short exact sequence
 
     $$ 
@@ -48,7 +50,9 @@ The second example uses the exponential function. To be more precise we have the
     
 The above examples can be further elaborated, and there are more examples of course. But this is enough motivation for now.
 
-Formal geometry will also allow us to work over other fields than just $$\C$$ or $$\R$$. Just as $$\R$$ is nothing but the completion of $$\Q$$ for the eucdlidean topology, we might wonder what happens if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). Put in simple terms this is what formal geometry attempts to do (more generally for any kind of topological ring, although we will just look at the $$p$$-adic case). Unfortunatly things turn out to be not as easy as in the complex case. So far there is no "one construction" that is fit best for all purposes. Each approach, that will be briefly introduced in the next section, resolves certain issues, but in return imposes restrictions in a different way. 
+---
+
+With Formal geometry we want to work over other fields than just $$\C$$ or $$\R$$. Just as $$\R$$ is nothing but the completion of $$\Q$$ for the euclidean topology, we might wonder what happens if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). Put in simple terms this is what formal geometry attempts to do (more generally for any kind of topological ring, although we will just look at the $$p$$-adic case). Unfortunatly things turn out to be not as easy as in the complex case. So far there is no "one construction" that is fit best for all purposes. Each approach, that will be briefly introduced in the next section, resolves certain issues, but in return imposes restrictions in a different way. 
 
 One of the first things that clearly distinguishes the $$p$$-adic topology form the euclidean topology are the closed and open unit disk 
 
