@@ -77,11 +77,11 @@ Before introducing the different approaches, what are reasonable things to expec
 
     analogous to the scheme case. It again remains vague what I mean here e.g. by $$f(x)$$, but the usual case of affine schemes should provide some intuition. Now furthermore we would of course like to include more open sets! The straightforward approach would be something like
 
-    $$ \{x\in S(A)\mid |f(x)|\leq 1 \}$$
+    $$ \{x\in S(A)\mid |f(x)| < 1 \}$$
 
     or if we are feeling very bold, maybe more generally
 
-    $$ \{x\in S(A)\mid |f(x)|\leq |g(x)| \}.$$
+    $$ \{x\in S(A)\mid |f(x)| < |g(x)| \}.$$
 
 - On the other hand if $$I\subset A$$ is a "nice" ideal (e.g. open for the topology on $$A$$), then something like 
 
