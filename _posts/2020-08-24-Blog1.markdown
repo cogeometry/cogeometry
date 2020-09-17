@@ -40,13 +40,11 @@ The groups $$H^{p,q}(X(\mathbb{C}))$$ can be defined as Dolbeaut cohomology grou
 ### Example 2
 The second example uses the exponential function. To be more precise we have the exponential short exact sequence
 
-    $$ 
-        0\to \underline{\mathbb{Z}}\xrightarrow{\cdot 2\pi i} \mathcal{O}\xrightarrow{exp( \_ )} \mathcal{O}^*\to 0.
-    $$
+$$ 0\to \underline{\mathbb{Z}}\xrightarrow{\cdot 2\pi i} \mathcal{O}\xrightarrow{exp( \_ )} \mathcal{O}^*\to 0.$$
 
  This induces a long exact sequence, which should be familiar with those who studied some complex geometry/curves
 
-    $$...H^1(X(\C),\Ox)\to H^1(X(\C),\Ox^*)\to H^2(X(\C),\underline{\Z})\to... $$
+$$...H^1(X(\C),\Ox)\to H^1(X(\C),\Ox^*)\to H^2(X(\C),\underline{\Z})\to... $$
     
 The above examples can be further elaborated, and there are more examples of course. But let us now proceed to our actual subject of interest.
 
