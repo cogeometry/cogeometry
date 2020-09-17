@@ -67,11 +67,11 @@ Since a map is always only an approximation of the territory that it encaptures,
 Before introducing the different approaches, what are reasonable things to expect from them? 
 - Ideally we end up with a fully faithful functor:
 
-    $$ S:\textrm{rings with a topology+...}^{op}\to \textrm{???-spaces} $$
+    $$ S:\{\textrm{rings with a topology+...}\}^{op}\to \{\textrm{???-spaces}\} $$
 
     as an analogue of 
 
-    $$ Spec:\textrm{rings}^{op}\to \textrm{Locally ringed spaces}. $$
+    $$ Spec:\{\textrm{rings}\}^{op}\to \{\textrm{Locally ringed spaces}\}. $$
 
     So the objects we construct should live in a reasonable ambient category, e.g. it should be a topological space with a sheaf. I am intentionally vague with the domain category of the functor, as it will vary from approach to approach.
 
@@ -118,4 +118,5 @@ In some sense this is the opposite approach. Instead of covering a broad class o
 Motivated by rigid analytic varieties, we want to fix the issue just mentioned above. Let us again take such an $$A$$ as above. One way to add points would be of course to consider $$Spec(A)$$, but this will make everything too algebraic again. Instead one considers another kind of spectrum, $$M(A)$$, which is the set of bounded multiplicative seminnorms. One can show that each maximal ideal uniquely defines such a seminorm, i.e. we can embedd $$Sp(A)$$ into $$M(A)$$. But now we have new kinds of "generic" points, most notably in the case of the unit disk, we get the Gauss point. This will already resolve a few issues with the topology, it will be in fact better behaved. But, for reasons shown later, actually one can add even more points in a natural way, so we end up with...
 
 ### 4. Adic spaces
+
 Adic spaces, and this can already be seen as a first kind of complication, are not defined in terms of a ring $$A$$ with a topology, but in terms of pairs of rings $$(A,A^+)$$, where we can think of $$A^+\subset A$$, in some instances at least, as subring of bounded elements in $$A$$. The most canonical example might be $$(K,\Ox_K)$$. The construction of the adic space $$Spa(A,A^+)$$ is similar to the one above and is in terms of valuations (or rather equivalence classes of such). But allowing more general valuations (to be specified later), one gets even more points. While this approach has been used heavily recently, see [ref berkeley], it has some rather horrid behaviour, e.g. when it comes to fibre products, as they might not even exist! And here we might end up in a circular loop, as formal schemes behave much better in terms of (co)limits than adic spaces.
