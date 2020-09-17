@@ -61,11 +61,11 @@ Since a map is always only an approximation of the territory that it encaptures,
 Before introducing the different approaches, what are reasonable things to expect from them? 
 - Ideally we end up with a functor:
 
-    $$ S:\{\textrm{rings with a topology+...}^{op}\}\to \{\textrm{???-spaces}\} $$
+    $$ S:\{\textrm{rings with a topology+...}\}^{op}\to \{\textrm{???-spaces}\} $$
 
     as an analogue of 
 
-    $$ Spec:\{\textrm{rings}^{op}\}\to \{\textrm{Locally ringed spaces}\}. $$
+    $$ Spec:\{\textrm{rings}\}^{op}\to \{\textrm{Locally ringed spaces}\}. $$
 
     So the objects we construct should live in a reasonable ambient category, e.g. it should be a topological space with a sheaf. Also this functor should be fully faithfull. Note also that I am intentionally vague with the domain category of the functor, as it will vary from approach to approach.
 
