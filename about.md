@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Lucy](/assests/Pic.jpg)
+<img style="float: right; padding: 10px" width="200" src="assets/Pic.jpg">
+
 
 I am a first year PhD student at Imperial College under the supervision of [Ana Caraiani](https://wwwf.imperial.ac.uk/~acaraian/). 
 test [get the PDF](/assests/ShimuraData.pdf)
