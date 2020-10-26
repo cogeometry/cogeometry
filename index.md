@@ -6,6 +6,3 @@ layout: default
 ---
 
 Welcome to my website.
-<div id="content">
-    <pre>Spec : {CRing}^op -> {Affine schemes} is an equivalence</pre>
-</div>
