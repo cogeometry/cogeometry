@@ -12,6 +12,18 @@ I am a first year PhD student at Imperial College under the supervision of [Ana 
 I am interested in arithmetic geometry and number theory. In particular, this includes the mod p and formal geometry of Shimura varieties. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Writings
 
  [Shimura data in terms of $$B(G,\mathbb{R})$$](/assests/ShimuraData.pdf)
