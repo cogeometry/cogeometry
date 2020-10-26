@@ -3,7 +3,7 @@ layout: post
 title:  "A hike through formal geometry- I"
 date:   2020-08-24 19:16:04 +0200
 categories: blog
-permalink: /blog1/
+permalink: blog/blog1/
 ---
 # A Motivation
 
