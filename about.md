@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Cogeometry is not a place for geometry but rather its opposite.
+I am a first year PhD student at Imperial College under the supervision of [Ana Caraiani](https://wwwf.imperial.ac.uk/~acaraian/). 
