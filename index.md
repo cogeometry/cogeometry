@@ -4,25 +4,6 @@
 
 layout: home
 ---
-<style>
-
-    html, body {
-        margin: 0;
-    }
-
-
-    #content {
-        display: flex;
-        height: 20vh;
-        margin: 0 auto;
-        align-items: center;
-        justify-content: center;
-    }
-
-    #content pre {
-        text-align: center;
-    }
-</style>
 
 Welcome to my website.
 <div id="content">
