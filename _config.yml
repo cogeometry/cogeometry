@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cogeometry
-email: 
+email: lj20@ic.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Spec : {CRing}^op -> {Affine schemes} is an equivalence.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,8 +26,6 @@ url: "http://cogeometry.com" # the base hostname & protocol for your site, e.g. 
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
