@@ -6,6 +6,7 @@ permalink: /about/
 
 <img style="float: right; padding: 10px" width="300" src="/assests/Pic.jpg">
 
+# Louis Jaburi
 
 I am a first year PhD student at Imperial College under the supervision of [Ana Caraiani](https://wwwf.imperial.ac.uk/~acaraian/). 
 
