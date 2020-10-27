@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A hike through formal geometry- I"
-date:   2020-08-24 19:16:04 +0200
+date:   
 categories: blog
 permalink: blog/blog1/
 ---
