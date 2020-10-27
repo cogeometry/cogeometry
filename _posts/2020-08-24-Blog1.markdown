@@ -16,9 +16,9 @@ $$\newcommand{\X}{\mathfrak{X}}$$
 $$\newcommand{\Ox}{\mathcal{O}}$$
 $$\newcommand{\R}{\mathbb{R}}$$
 
-To see what formal geometry attempts to do, we might first want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid when we want to focus on more special kinds of schemes. For example, complex projective varieties. By this I mean things like $$ V(f)\subset \mathbb{P}^n_{\mathbb{C}}$$, where $$\mathbb{P}^n_{\mathbb{C}}$$ is the smooth complex **manifold** and $$V(f)$$ is the vanishing set of a homogenous polynomial.
+To see what formal geometry attempts to do, we might first want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid when we want to focus on more special kinds of schemes. For example, complex projective varieties, so e.g. $$\mathbb{P}^n_{\mathbb{C}}$$ as the complex **manifold**. 
 
-By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $$\mathbb{C}$$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. Heuristically, we can hope that this will allow us to make stronger statements, using exactly this additional structure. Here are two instances, where working over $$\mathbb{C}$$ is beneficial.
+By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $$\mathbb{C}$$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. Heuristically, we can hope that this will allow us to make stronger statements, using exactly this additional structure. Here are two instances, where working over $$\mathbb{C}$$ is beneficial. 
 
 
 ### Example 1
@@ -51,7 +51,7 @@ The above examples can be further elaborated, and there are more examples of cou
 
 
 
-What happens, if we want to work over other fields than just $$\C$$ or $$\R$$. Just as $$\R$$ is nothing but the completion of $$\Q$$ for the euclidean topology, we might wonder what happens if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). Put in simple terms this is what formal geometry attempts to do (or more generally for any kind of topological ring). Unfortunately things turn out to be not as easy as in the complex case. So far there is no "one construction" that is fit best for all purposes. Each approach, that will be briefly introduced in the next section, resolves certain issues, but in return imposes restrictions in a different way. 
+What happens, if we want to work over other fields than just $$\C$$ or $$\R$$. Just as $$\R$$ is nothing but the completion of $$\Q$$ for the euclidean topology, we might wonder what happens if we consider varieties over $$\Q_p$$, or its algebraic closure, or its completion. Again since these fields have more structure, a non-trivial topology namely, we can hope for a theory of something like $$p$$-adic geometry (in constrast to complex geometry). Put in simple terms this is one thing formal geometry attempts to do (or maybe considering more general kind of topological ring). Unfortunately things turn out to be not as easy as in the complex case. So far there is no "one construction" that is fit best for all purposes. Each approach, that will be briefly introduced in the next section, resolves certain issues, but in return imposes restrictions in a different way. 
 
 One of the first things that clearly distinguishes the $$p$$-adic topology form the euclidean topology are the closed and open unit disk 
 
@@ -86,7 +86,7 @@ Before introducing the different approaches, what are reasonable things to expec
 
     $$ \{x\in S(A)\mid |f(x)| \leq |g(x)| \}.$$
 
-- On the other hand if $$I\subset A$$ is a "nice" ideal (e.g. open for the topology on $$A$$), then something like 
+- On the other hand if $$I\subset A$$ is a "nice" ideal, then something like 
 
     $$ V(I)=\{x\in S(A)\mid f(x)=0 \forall f\in I\} $$
 
@@ -118,4 +118,4 @@ Motivated by rigid analytic varieties, we want to fix the issue just mentioned a
 
 ### 4. Adic spaces
 
-Adic spaces, and this can already be seen as a first kind of complication, are not defined in terms of a ring $$A$$ with a topology, but in terms of pairs of rings $$(A,A^+)$$, where we can think of $$A^+\subset A$$, in some instances at least, as subring of bounded elements in $$A$$. The most canonical example might be $$(K,\Ox_K)$$. The construction of the adic space $$Spa(A,A^+)$$ is similar to the one above and is in terms of valuations (or rather equivalence classes of such). But allowing more general valuations (to be specified later), one gets even more points. While this approach has been used heavily recently, see [ref berkeley], it has some rather horrid behaviour, e.g. when it comes to fibre products, as they might not even exist! And here we might end up in a circular loop, as formal schemes behave much better in terms of (co)limits than adic spaces.
+Adic spaces, and this can already be seen as a first kind of complication, are not defined in terms of a ring $$A$$ with a topology, but in terms of pairs of rings $$(A,A^+)$$, where we can think of $$A^+\subset A$$, in some instances at least, as subring of bounded elements in $$A$$. The most canonical example might be $$(K,\Ox_K)$$. The construction of the adic space $$Spa(A,A^+)$$ is similar to the one above and is in terms of valuations (or rather equivalence classes of such). But allowing more general valuations (to be specified later), one gets even more points. While this approach has been used heavily recently, it has some rather horrid behaviour, e.g. when it comes to fibre products, as they might not even exist! And here we might end up in a circular loop, as formal schemes behave much better in terms of (co)limits than adic spaces.
