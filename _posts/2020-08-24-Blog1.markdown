@@ -2,10 +2,11 @@
 layout: post
 title:  "A hike through formal geometry- I"
 categories: blog
-permalink: blog/blog1/
+permalink: blog/blog1.html
 ---
 # A Motivation
 
+<div class="hide">
 $$\newcommand{\a}{\alpha}$$
 $$\newcommand{\C}{\mathbb{C}}$$
 $$\newcommand{\P}{\mathbb{P}}$$
@@ -14,6 +15,7 @@ $$\newcommand{\Q}{\mathbb{Q}}$$
 $$\newcommand{\X}{\mathfrak{X}}$$
 $$\newcommand{\Ox}{\mathcal{O}}$$
 $$\newcommand{\R}{\mathbb{R}}$$
+</div>
 
 To see what formal geometry attempts to do, we might first want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid when we want to focus on more special kinds of schemes. For example, complex projective varieties, so e.g. $$\mathbb{P}^n_{\mathbb{C}}$$ as the complex **manifold**. 
 
