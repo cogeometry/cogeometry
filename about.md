@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-<img style="float: right; padding: 10px" width="300" src="/assets/Pic.jpg">
+<img style="float: right; padding: 10px" width="300" height="278" src="/assets/Pic.jpg">
 
 # Louis Jaburi
 

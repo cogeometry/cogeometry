@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cogeometry
+title: cogeometry
 email: lj20@ic.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Spec : {CRing}^op -> {Affine schemes} is an equivalence.
+description: by Louis Jabouri
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cogeometry.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: cog

@@ -4,11 +4,20 @@
         <div class="footer-col footer-col-3">
           contact me: 
           <br>
-           lj20@ic.ac.uk
+          &nbsp;&nbsp;<a href="mailto:{{ site.email }}">{{ site.email }}</a>
           <br><br>
         </div>
   
         <div class="footer-col footer-col-3">
+
+          {% comment %} 
+          you can also find me on
+          <ul class="social-media-list">
+            <li>{% include icon-github.html username="louis" %} 
+            <li>{% include icon-twitter.html username="louis" %}
+            <li>{% include icon-mathoverflow.html username="louis" id="666" %}
+          </ul>
+          {% endcomment %}
         </div>
       </div>
     </div>
