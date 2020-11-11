@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writings
-permalink: /writing/
+title: Notes
+permalink: /notes/
 show_title: true
 ---
 
