@@ -6,17 +6,16 @@ permalink: blog/blog1.html
 ---
 # A Motivation
 
-<div class="hide">
-$$\newcommand{\a}{\alpha}$$
-$$\newcommand{\C}{\mathbb{C}}$$
-$$\newcommand{\P}{\mathbb{P}}$$
-$$\newcommand{\Z}{\mathbb{Z}}$$
-$$\newcommand{\Q}{\mathbb{Q}}$$
-$$\newcommand{\X}{\mathfrak{X}}$$
-$$\newcommand{\Ox}{\mathcal{O}}$$
-$$\newcommand{\R}{\mathbb{R}}$$
-</div>
-
+\$$
+\newcommand{\a}{\alpha}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\P}{\mathbb{P}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\X}{\mathfrak{X}}
+\newcommand{\Ox}{\mathcal{O}}
+\newcommand{\R}{\mathbb{R}}
+$$
 To see what formal geometry attempts to do, we might first want to understand where "classical" algebraic geometry has its shortcomings. So while the world of schemes is very useful, because of its great generality, there is a toll to be paid when we want to focus on more special kinds of schemes. For example, complex projective varieties, so e.g. $$\mathbb{P}^n_{\mathbb{C}}$$ as the complex **manifold**. 
 
 By Serre's GAGA, every complex projective variety arises from a projective scheme $$X/\mathbb{C}$$, in the sense that it will be isomorphic to the $$\mathbb{C}$$-points $$X(\mathbb{C})$$. Similar statements also exist for coherent sheaves. So complex geometry is not too far away from algebraic geometry... But wait! From the algebraic geometry point of view $$X(\mathbb{C})$$ only sees the Zariski topology, but of course $$X(\mathbb{C})$$ also naturally has the complex topology, which is finer. Heuristically, we can hope that this will allow us to make stronger statements, using exactly this additional structure. Here are two instances, where working over $$\mathbb{C}$$ is beneficial. 
