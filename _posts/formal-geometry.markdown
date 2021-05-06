@@ -1,3 +1,17 @@
-# Formal geometry: Summer term 2021 study group
+---
+layout: post
+title:  "Formal geometry: Summer term 2021 study group"
+categories: blog
+permalink: study-group/formal.html
+---
 
-During this term,
+
+
+# Program & organization
+
+
+test
+
+
+
+# Schedule
