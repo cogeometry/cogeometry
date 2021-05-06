@@ -8,4 +8,4 @@ show_title: true
 test
 
 
-%- [Study group: Formal geometry]({% post_url formal-geometry %})
+- No
