@@ -16,3 +16,4 @@ A detailed list of the talks can be found [here](/assets/Formal_Geometry_Study_g
 
 # Schedule
 
+More details to follow. 
