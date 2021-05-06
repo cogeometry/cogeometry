@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
-show_title: false
+show_title: true
 ---
 
 

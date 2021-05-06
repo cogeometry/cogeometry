@@ -8,4 +8,4 @@ show_title: true
 test
 
 
-- No
+- [A hike through formal geometry: Introduction]({% post_url formal-geometry %})
