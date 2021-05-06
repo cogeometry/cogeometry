@@ -8,4 +8,4 @@ show_title: true
 test
 
 
-- [A hike through formal geometry: Introduction]({% post_url formal-geometry.markdown %})
+- [A hike through formal geometry: Introduction]({% post_url 2021-05-06-formal-geometry %})
