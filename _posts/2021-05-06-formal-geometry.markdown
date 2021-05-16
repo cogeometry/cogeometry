@@ -12,7 +12,7 @@ permalink: study-group/formal.html
 
 A detailed list of the talks can be found [here](/assets/Formal_Geometry_Study_group.pdf). If you have questions or would like to participate, please contact me!
 
-
+test
 
 # Schedule
 
