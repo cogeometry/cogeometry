@@ -16,6 +16,8 @@ A detailed list of the talks can be found [here](/assets/Formal_Geometry_Study_g
 
 # Schedule
 
+The talks will take place each Tuesday 10:00-11:30 (UK time). See the program above for the abstracts of the talks.
+
 **25/05 Talk 1: Introduction**
 
 **01/06 Talk 2: Rings with topologies**
