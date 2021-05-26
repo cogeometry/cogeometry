@@ -16,6 +16,6 @@ A detailed list of the talks can be found [here](/assets/Formal_Geometry_Study_g
 
 # Schedule
 
-** 25/05 Talk 1: Introduction **
+**25/05 Talk 1: Introduction**
 
-** 25/05 Talk 1: Introduction2 **
+**25/05 Talk 2: Rings with topologies**
