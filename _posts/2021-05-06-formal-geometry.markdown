@@ -20,11 +20,14 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 
 **25/05 Talk 1: Introduction**
 [Notes](/assets/NAG_1.pdf)
+
 **08/06 Talk 2: Rings with topologies**
+[Notes](/assets/NAG_2.pdf)
 
 **15/06 Talk 3: Rigid-analytic spaces I**
 
 **22/06 Talk 4: Rigid-analytic spaces II**
+[Notes](/assets/NAG_4.pdf)
 
 **29/06 Talk 5: Rigid-analytic spaces III**
 
