@@ -25,6 +25,7 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 [Notes](/assets/NAG_2.pdf)
 
 **15/06 Talk 3: Rigid-analytic spaces I**
+[Notes](/assets/NAG_3.pdf)
 
 **22/06 Talk 4: Rigid-analytic spaces II**
 [Notes](/assets/NAG_4.pdf)
