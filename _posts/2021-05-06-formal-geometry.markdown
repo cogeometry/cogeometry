@@ -31,6 +31,7 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 [Notes](/assets/NAG_4.pdf)
 
 **29/06 Talk 5: Rigid-analytic spaces III**
+[Notes](/assets/NAG_5.pdf)
 
 **06/07 Talk 6: Berkovich spaces I**
 
