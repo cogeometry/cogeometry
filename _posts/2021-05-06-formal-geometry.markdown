@@ -34,6 +34,7 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 [Notes](/assets/NAG_5.pdf)
 
 **06/07 Talk 6: Berkovich spaces I**
+[Notes](/assets/NAG_6.pdf)
 
 **13/07 Talk 7: Berkovich spaces II**
 
