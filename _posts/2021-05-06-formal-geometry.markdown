@@ -37,8 +37,10 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 [Notes](/assets/NAG_6.pdf)
 
 **13/07 Talk 7: Berkovich spaces II**
+[Notes from the talk](/assets/NAG_7A.pdf) [Typed Notes](/assets/NAG_7B.pdf)
 
 **20/07 Talk 8: Berkovich spaces III**
+[Notes from the talk](/assets/NAG_8A.pdf) [Typed Notes](/assets/NAG_8B.pdf)
 
 **27/07 Talk 9: Formal schemes**
 
