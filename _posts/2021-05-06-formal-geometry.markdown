@@ -43,6 +43,7 @@ The talks will take place each Tuesday 10:00-11:30 (UK time). See the program ab
 [Notes from the talk](/assets/NAG_8A.pdf) & [Typed Notes](/assets/NAG_8B.pdf)
 
 **27/07 Talk 9: Formal schemes**
+[Notes](/assets/NAG_9.pdf)
 
 **03/08 Talk 10: Adic spaces I**
 
