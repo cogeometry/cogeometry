@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Emerton-Gee stack and applications: Summer term 2022 study group"
+categories: blog
+permalink: study-group/egstack.html
+---
+
+
+
+# Program & organization
+
+
+A detailed list of the talks can be found [here](/assets/Emerton_Gee_study_group.pdf).
+ 
+
+
+# Schedule
+
+The talks will take place each Thursday 14:00-15:30 at Imperial college (room to be determined). See the program above for the abstracts of the talks.
+
+**/05 Talk 1: Introduction**
+
