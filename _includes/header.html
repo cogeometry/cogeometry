@@ -3,8 +3,11 @@
     <div class="wrapper">
   
       <a class="site-title" href="{{ site.baseurl }}/">
-        <span class="title"><span class="co">co</span>geometry</span>
-        <span class="subtitle">{{ site.description }}</span>
+        <span class="title {% if site.noDescription %} title-large {% endif %}"><span class="co">co</span>geometry</span>
+        
+        {% unless site.noDescription %}
+          <span class="subtitle">{{ site.description }}</span>
+        {% endunless %}
       </a>
   
       <nav class="site-nav">

@@ -16,6 +16,7 @@
 title: cogeometry
 email: lj20@ic.ac.uk
 description: 
+noDescription: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cogeometry.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: cog
