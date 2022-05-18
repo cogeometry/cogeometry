@@ -279,12 +279,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (~> 207)
+  github-pages
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.0)
+  wdm
 
 BUNDLED WITH
    2.3.13
