@@ -3,9 +3,9 @@
     <div class="wrapper">
   
       <a class="site-title" href="{{ site.baseurl }}/">
-        <span class="title {% if site.noDescription %} title-large {% endif %}"><span class="co">co</span>geometry</span>
+        <span class="title {% if site.description == "" %} title-large {% endif %}"><span class="co">co</span>geometry</span>
         
-        {% unless site.noDescription %}
+        {% unless site.description == "" %}
           <span class="subtitle">{{ site.description }}</span>
         {% endunless %}
       </a>
