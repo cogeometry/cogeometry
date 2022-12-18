@@ -3,8 +3,11 @@
     <div class="wrapper">
   
       <a class="site-title" href="{{ site.baseurl }}/">
-        <span class="title"><span class="co">co</span>geometry</span>
-        <span class="subtitle">{{ site.description }}</span>
+        <span class="title {% if site.description == "" %} title-large {% endif %}"><span class="co">co</span>geometry</span>
+        
+        {% unless site.description == "" %}
+          <span class="subtitle">{{ site.description }}</span>
+        {% endunless %}
       </a>
   
       <nav class="site-nav">
@@ -19,8 +22,10 @@
         <div class="trigger">
           {% for my_page in site.pages %}
             {% unless my_page.exclude %}
-              {% if my_page.title %}
-              <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              {% assign menu_entry = my_page.menu_entry | default: my_page.title %}
+
+              {% if menu_entry %}
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ menu_entry }}</a>
               {% endif %}
             {% endunless %}
           {% endfor %}
