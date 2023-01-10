@@ -9,11 +9,10 @@ permalink: study-group/geomsat.html
 
 # Program & organization
 
-
-More to come
+This time the topic will be "The geometric Satake equivalence" following Richarz's approach via universally locally acyclic sheaves (https://arxiv.org/abs/1207.5314). See the attached [poster](/assets/Geomsatplan.pdf) for more details.
  
-
+There will be a survey soon for those interested in giving a talk.
 
 # Schedule
 
-25.03.2023 Wegelerstr. 10 KHS, Bonn
+Saturday 25.03.2023 Wegelerstr. 10 KHS, Bonn
