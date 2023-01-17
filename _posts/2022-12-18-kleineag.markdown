@@ -11,7 +11,8 @@ permalink: study-group/geomsat.html
 
 This time the topic will be "The geometric Satake equivalence" following Richarz's approach via universally locally acyclic sheaves (https://arxiv.org/abs/1207.5314). See the attached [poster](/assets/Geomsatplan.pdf) for more details.
  
-There will be a survey soon for those interested in giving a talk.
+If you are interested, you can fill out this survey <a href="https://forms.gle/oWwaUbbCyQ88oZTd6">survey</a>. 
+
 
 # Schedule
 
