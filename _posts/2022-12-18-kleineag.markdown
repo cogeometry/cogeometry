@@ -9,7 +9,7 @@ permalink: study-group/geomsat.html
 
 # Program & organization
 
-This time the topic will be "The geometric Satake equivalence" following Richarz's approach via universally locally acyclic sheaves (https://arxiv.org/abs/1207.5314). See the attached [poster](/assets/Geomsatplan.pdf) for more details.
+This time the topic will be "The geometric Satake equivalence" following Richarz's approach via universally locally acyclic sheaves [arxiv:1207.5314](https://arxiv.org/abs/1207.5314). See the attached [poster](/assets/Geomsatplan.pdf) for more details.
  
 If you are interested, you can fill out this <a href="https://forms.gle/oWwaUbbCyQ88oZTd6">survey</a>. 
 
@@ -18,11 +18,11 @@ If you are interested, you can fill out this <a href="https://forms.gle/oWwaUbbC
 
 Saturday 25.03.2023 Wegelerstr. 10 KHS, Bonn
 
-11:00-11:30: Arrival and Registration
-11:30-13:00: 1. Talk by Thomas Manopulo (Bonn University) - Introduction + Prerequisites
-13:15-13:45: First half 2. Talk by Rizacan Ciloglu (TU Darmstadt) - ULA sheaves and the Symmetric Monoidal Structure
-13:45-15:30: Lunch break
-15:30-16:30: Second half 2. Talk
-16:45-17:45: 3. Talk by Aaron Wild (Bonn University) - Tannakian formalism
-17:45-18:15: Vote for the next Kleine AG - <a href="https://aaronwild.gitlab.io/kleineag23/tannakian-satake.pdf">Notes</a>
-18:15-19:15: 4. Talk by Annie Littler (Boston University) - Proof of the main result
+11:00-11:30: Arrival and Registration  
+11:30-13:00: 1. Talk by Thomas Manopulo (Bonn University) - Introduction + Prerequisites  
+13:15-13:45: First half 2. Talk by Rizacan Ciloglu (TU Darmstadt) - ULA sheaves and the Symmetric Monoidal Structure  
+13:45-15:30: Lunch break  
+15:30-16:30: Second half 2. Talk  
+16:45-17:45: 3. Talk by Aaron Wild (Bonn University) - Tannakian formalism  
+17:45-18:15: Vote for the next Kleine AG - <a href="https://aaronwild.gitlab.io/kleineag23/tannakian-satake.pdf">Notes</a>  
+18:15-19:15: 4. Talk by Annie Littler (Boston University) - Proof of the main result  
