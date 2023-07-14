@@ -13,3 +13,13 @@ In my master's thesis I studied the twistor projective line, which can be seen a
 ### [Stratas of $$\rm{Bun}_G$$](/assets/Stratas_of_BunG.pdf)
 
 These are notes of a talk that I gave in the London number theory study group on Stratas of the $$\rm{Bun}_G$$ stack, studying $$G$$-torsors on the Fargues-Fontaine curve.
+
+# Preprints & Publications
+
+### [Functions on Irreducible Components of the Emerton-Gee Stack]
+
+<a href="https://forms.gle/oWwaUbbCyQ88oZTd6">Link to the arxiv</a>
+
+
+
+
