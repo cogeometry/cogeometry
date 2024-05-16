@@ -16,9 +16,9 @@ These are notes of a talk that I gave in the London number theory study group on
 
 # Preprints & Publications
 
-### [Functions on Irreducible Components of the Emerton-Gee Stack]
+### Functions on Irreducible Components of the Emerton-Gee Stack
 
-<a href="https://forms.gle/oWwaUbbCyQ88oZTd6">Link to the arxiv</a>
+<a href="https://arxiv.org/abs/2306.00141">Link to the arxiv</a>
 
 
 
