@@ -1,9 +1,20 @@
 ---
 layout: page
-title: Notes
+title: Research
 permalink: /notes/
 show_title: true
 ---
+
+# Preprints & Publications
+
+### Unifying and Verifying Mechanistic Interpretations: A Case Study with Group Operations
+<a href="https://arxiv.org/abs/2410.07476">Link to the arxiv</a>
+
+### Functions on Irreducible Components of the Emerton-Gee Stack
+
+<a href="https://arxiv.org/abs/2306.00141">Link to the arxiv</a>
+
+# Notes
 
 ### [Shimura data in terms of $$B(G,\mathbb{R})$$](/assets/ShimuraData.pdf)
 
@@ -14,11 +25,7 @@ In my master's thesis I studied the twistor projective line, which can be seen a
 
 These are notes of a talk that I gave in the London number theory study group on Stratas of the $$\rm{Bun}_G$$ stack, studying $$G$$-torsors on the Fargues-Fontaine curve.
 
-# Preprints & Publications
 
-### Functions on Irreducible Components of the Emerton-Gee Stack
-
-<a href="https://arxiv.org/abs/2306.00141">Link to the arxiv</a>
 
 
 
