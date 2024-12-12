@@ -16,7 +16,7 @@ show_title: true
 
 # Notes
 
-### [Compact proofs Tutorial]
+### Compact proofs Tutorial
 
 Can be found <a href="https://colab.research.google.com/github/LouisYRYJ/Proof_based_approach_tutorial/blob/master/proof_public.ipynb"> here</a> 
 
