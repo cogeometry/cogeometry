@@ -16,6 +16,10 @@ show_title: true
 
 # Notes
 
+### [Compact proofs Tutorial]
+
+Can be found <a href="https://colab.research.google.com/github/LouisYRYJ/Proof_based_approach_tutorial/blob/master/proof_public.ipynb"> here</a> 
+
 ### [Shimura data in terms of $$B(G,\mathbb{R})$$](/assets/ShimuraData.pdf)
 
 In my master's thesis I studied the twistor projective line, which can be seen as the archimedean analogue of the Fargues-Fontaine curve. In this thesis I elaborated this connection and tried to make use of it to show that possibly Shimura data can be given a description in terms of $$B(G,\mathbb{R})$$. 
