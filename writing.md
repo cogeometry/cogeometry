@@ -7,6 +7,10 @@ show_title: true
 
 # Preprints & Publications
 
+### Ambiguous out-of-distribution generalization on an algorithmic task
+<a href="https://www.lesswrong.com/posts/oRKemL989qyQ6KZTB/ambiguous-out-of-distribution-generalization-on-an">Link to the post</a>
+
+
 ### Unifying and Verifying Mechanistic Interpretations: A Case Study with Group Operations
 <a href="https://arxiv.org/abs/2410.07476">Link to the arxiv</a>
 
