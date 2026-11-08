@@ -5,24 +5,27 @@ permalink: /notes/
 show_title: true
 ---
 
-# Preprints & Publications
+# ML papers
 
-### Ambiguous out-of-distribution generalization on an algorithmic task
-<a href="https://www.lesswrong.com/posts/oRKemL989qyQ6KZTB/ambiguous-out-of-distribution-generalization-on-an">Link to the post</a>
+See my [Google Scholar profile](https://scholar.google.com/citations?user=VknFimMAAAAJ).
 
+# Posts
 
-### Unifying and Verifying Mechanistic Interpretations: A Case Study with Group Operations
-<a href="https://arxiv.org/abs/2410.07476">Link to the arxiv</a>
+### [Exploring the data landscape via metagradient descent](https://www.lesswrong.com/posts/iduSpeG2Y6kAf4uHk/exploring-the-data-landscape-via-metagradient-descent)
 
-### Functions on Irreducible Components of the Emerton-Gee Stack
-
-<a href="https://arxiv.org/abs/2306.00141">Link to the arxiv</a>
+### [Ambiguous out-of-distribution generalization on an algorithmic task](https://www.lesswrong.com/posts/oRKemL989qyQ6KZTB/ambiguous-out-of-distribution-generalization-on-an)
 
 # Notes
 
-### Compact proofs Tutorial
+### [Compact proofs tutorial](https://colab.research.google.com/github/LouisYRYJ/Proof_based_approach_tutorial/blob/master/proof_public.ipynb)
 
-Can be found <a href="https://colab.research.google.com/github/LouisYRYJ/Proof_based_approach_tutorial/blob/master/proof_public.ipynb"> here</a> 
+# Mathematics
+
+### [Functions on Irreducible Components of the Emerton-Gee Stack](https://arxiv.org/abs/2306.00141)
+
+### [The p-adic geometry of the mu-ordinary locus; functions on the Emerton-Gee stack](https://doi.org/10.25560/111995)
+
+PhD thesis, Imperial College London, 2024.
 
 ### [Shimura data in terms of $$B(G,\mathbb{R})$$](/assets/ShimuraData.pdf)
 
@@ -32,9 +35,3 @@ In my master's thesis I studied the twistor projective line, which can be seen a
 ### [Stratas of $$\rm{Bun}_G$$](/assets/Stratas_of_BunG.pdf)
 
 These are notes of a talk that I gave in the London number theory study group on Stratas of the $$\rm{Bun}_G$$ stack, studying $$G$$-torsors on the Fargues-Fontaine curve.
-
-
-
-
-
-
